@@ -1,6 +1,6 @@
 'use client';
 import React from "react";
-import "./globals.css";
+import "../styles/globals.css";
 
 const brand = {
   name: "Hatware Consulting",
